@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1 align="center">Hello there!</h1>
+<h4 align="center">My name is Adrian Mathew and I'm currently an Applied Statistics student at Purdue I'm particularly interested in model inference, agent orchestration, and AI alignment
+
 
 <!--
 **pathupally/pathupally** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
