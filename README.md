@@ -1,5 +1,5 @@
 <h1 align="center">Hello there!</h1>
-<h4 align="center">My name is Adrian Mathew and I'm currently an Applied Statistics student at Purdue I'm particularly interested in model inference, agent orchestration, and AI alignment
+<h4 align="center">My name is Adrian Mathew and I'm currently an Applied Statistics student at Purdue. I'm particularly interested in model inference, gpu optimization, and deep learning as a whole.
 
 
 <!--
