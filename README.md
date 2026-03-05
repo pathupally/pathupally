@@ -1,5 +1,7 @@
 <h1 align="center">Hello there!</h1>
-<h4 align="center">My name is Adrian Mathew and I'm currently an Applied Statistics student at Purdue. I'm particularly interested in gpu optimization, computer vision, and deep learning as a whole.
+<h4 align="center">i'm adrian mathew, an applied statistics student at purdue. I'm particularly interested in gpu optimization, ml serving, and agent orchestration. I want to help build ai infrastructure.
+
+
 
 
 <!--
